@@ -1,0 +1,14 @@
+[
+  {
+    "amount": 250.0,
+    "category": "A",
+    "description": "Ipad",
+    "date": "2026-05-06"
+  },
+  {
+    "amount": 580.0,
+    "category": "B",
+    "description": "PlayStation 5",
+    "date": "2026-05-06"
+  }
+]
